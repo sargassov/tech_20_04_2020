@@ -16,4 +16,5 @@ public class Triangle extends Shape {
     public double getSquare() {
         return side * height / 2;
     }
+
 }
